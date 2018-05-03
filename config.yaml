@@ -1,0 +1,21 @@
+vm:
+  ip: 172.20.20.20
+  memory: 2048
+  cpus: 2
+db:
+  db_name: "magento"
+  root_pass: "123456"
+repo_magento_com:
+  username: 8b0efdec785a6b94424352e36fd509a5
+  password: c95935adc1e3f29ecd6bfdf818e72ad6
+magento:
+  admin_user: "robin"
+  admin_password: "secret123456"
+  admin_email: "robin@techmaster.vn"
+  admin_firstname: "Robin"
+  admin_lastname: "Huy"
+  backend_frontname: "admin"
+  language: "en_US"
+  currency: "VND"
+  timezone: "Asia/Ho_Chi_Minh"
+  base_url: "http://localmagento.com"

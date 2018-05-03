@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e48a719-5d14-4969-acac-3a9883f9bc3a" name="magento2" url="http://172.20.20.20">
+        <fileTransfer host="172.20.20.20" port="22" privateKey="D:\setup\Workspace\Projects\Magento2\.vagrant\machines\default\virtualbox\private_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
